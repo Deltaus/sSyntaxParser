@@ -1,2 +1,2 @@
 # sSyntaxParser
-lab2 of Principles of Compling
+lab2 of Principles of Compiling
